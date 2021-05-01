@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# discord-bot-website-template
+An opensource discord bot website template that you can use to make your bot seem more professional! This is a part of the [opensource discord-resources repository](https://github.com/TrustedMercury/discord-resources)
 
-You can use the [editor on GitHub](https://github.com/trqzh/trqzh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Tutorial
+1. Clone the repository on your local computer.
 ```
+git clone https://github.com/TrustedMercury/discord-bot-website-template.git
+```
+2. Edit the code and fill in information that matches your bot
+3. Deploy the website with the new code
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### [Live Demo](https://im-kev.in/discord-bot-website-template)
 
-### Jekyll Themes
+### Preview Image
+##### This image is not to scale as it's a screenshot of the whole page (not just what is just shown at one point)
+![Preview Image](https://www.awesomescreenshot.com/upload/1052921/1087915/44bfe3b4-1013-4a1e-5ecf-752c719c46f0.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trqzh/trqzh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contrubuting Guidelines
+1. Fork the this repository
+2. Clone your forked repository
+```
+git clone https://github.com/YOUR-NAME-HERE/discord-bot-website-template.git
+```
+3. Make the necessary changes
+4. Create a [PULL REQUEST HERE](https://github.com/TrustedMercury/discord-bot-website-template/pulls)
